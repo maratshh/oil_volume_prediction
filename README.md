@@ -53,6 +53,6 @@
 ## Структура проекта
 
 [01_eda.ipynb](notebooks/01_eda.ipynb) - Обзор данных и eda \
-[02_main.ipynb](notebooks/02_main.ipynb) - Обучение модели и анализ рисков \
+[02_main.ipynb](notebooks/02_main.ipynb) - Обучение модели и анализ рисков
 
 src/utils.py - Функции для анализа и визуализации
